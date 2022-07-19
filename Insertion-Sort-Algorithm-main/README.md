@@ -26,16 +26,9 @@ Patika.dev
 
 <hr>
 
-## Time Complexity
-
-| Worst Case        | Average Case  | Best Case  |
-| ------------- |:-------------:| -----:|
-| `[22,27,16,18,6,2]`     | `[22,27,2,16,18,6]`  | `[2,6,16,18,22,27]` |
-
 ## 18 Case Durumu
   * Dizinin Son Hali
     * `[2,6,16,(18),22,27]`
-  * 18 ' in durumu:
     * 18 sayısı bu durumda ortada olacağı için **Average Case** durumundadır.
 
 <hr>
